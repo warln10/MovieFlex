@@ -11,7 +11,6 @@
 		0700126827EB477D008C8D5F /* PreviewViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0700126727EB477D008C8D5F /* PreviewViewModel.swift */; };
 		0700126A27EB4818008C8D5F /* ProgramViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0700126927EB4818008C8D5F /* ProgramViewController.swift */; };
 		07045A4527E8808100555F7A /* SearchViewControler.swift in Sources */ = {isa = PBXBuildFile; fileRef = 07045A4427E8808100555F7A /* SearchViewControler.swift */; };
-		073D46C228E9E3F4008FE540 /* TestVc1.swift in Sources */ = {isa = PBXBuildFile; fileRef = 073D46C128E9E3F4008FE540 /* TestVc1.swift */; };
 		076C9F1327E398970092FEBA /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 076C9F1227E398970092FEBA /* AppDelegate.swift */; };
 		076C9F1527E398970092FEBA /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 076C9F1427E398970092FEBA /* SceneDelegate.swift */; };
 		076C9F1727E398970092FEBA /* TabBarVc.swift in Sources */ = {isa = PBXBuildFile; fileRef = 076C9F1627E398970092FEBA /* TabBarVc.swift */; };
@@ -61,7 +60,6 @@
 		0700126727EB477D008C8D5F /* PreviewViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PreviewViewModel.swift; sourceTree = "<group>"; };
 		0700126927EB4818008C8D5F /* ProgramViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProgramViewController.swift; sourceTree = "<group>"; };
 		07045A4427E8808100555F7A /* SearchViewControler.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SearchViewControler.swift; sourceTree = "<group>"; };
-		073D46C128E9E3F4008FE540 /* TestVc1.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TestVc1.swift; sourceTree = "<group>"; };
 		076C9F0F27E398970092FEBA /* MovieFlex.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = MovieFlex.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		076C9F1227E398970092FEBA /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		076C9F1427E398970092FEBA /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -135,7 +133,6 @@
 			children = (
 				07045A4427E8808100555F7A /* SearchViewControler.swift */,
 				0700126927EB4818008C8D5F /* ProgramViewController.swift */,
-				073D46C128E9E3F4008FE540 /* TestVc1.swift */,
 			);
 			path = General;
 			sourceTree = "<group>";
@@ -390,7 +387,6 @@
 			buildActionMask = 2147483647;
 			files = (
 				0700126827EB477D008C8D5F /* PreviewViewModel.swift in Sources */,
-				073D46C228E9E3F4008FE540 /* TestVc1.swift in Sources */,
 				076C9F4F27E3AF000092FEBA /* CollectionTableCell.swift in Sources */,
 				076C9F4827E39D780092FEBA /* SearchVc.swift in Sources */,
 				076C9F4A27E39D890092FEBA /* DownloadVc.swift in Sources */,
